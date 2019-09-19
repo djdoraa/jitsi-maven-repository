@@ -3,13 +3,18 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-calendar-events</artifactId>
   <versioning>
+<<<<<<< HEAD
     <release>1.7.3-jitsi-2242590</release>
+=======
+    <release>1.6.4-jitsi-799011</release>
+>>>>>>> parent of 561f283b... Jitsi Meet SDK + dependencies
     <versions>
       <version>1.5.0-jitsi-1</version>
       <version>1.5.0-jitsi-2</version>
       <version>1.6.3-jitsi-1</version>
       <version>1.6.4-jitsi-2</version>
       <version>1.6.4-jitsi-799011</version>
+<<<<<<< HEAD
       <version>1.6.4-jitsi-877932</version>
       <version>1.6.4-jitsi-1541582</version>
       <version>1.6.4-jitsi-1585641</version>
@@ -17,5 +22,9 @@
       <version>1.7.3-jitsi-2242590</version>
     </versions>
     <lastUpdated>20190917122742</lastUpdated>
+=======
+    </versions>
+    <lastUpdated>20190403103034</lastUpdated>
+>>>>>>> parent of 561f283b... Jitsi Meet SDK + dependencies
   </versioning>
 </metadata>
